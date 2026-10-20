@@ -29,14 +29,6 @@
 - 260 is a smaller site (3,342 rentals), so dollar figures are scenarios, not forecasts
 - Benchmark set is 3 vs 3, a directional check
 
-## Files
-- `ancillary_sales_deck.pptx`: summary slides
-- `ancillary_sales_model.xlsx`: Assumptions, Opportunity Ranking, Benchmark Comparison, Revenue Scenario
-- `correlation_check.R`: correlation check, bottom/top 10 lists per product
-
-Data not included (provided as part of a case study).
-
-
 # Workforce Cost Variance Analysis
 
 **Question:** Where are the labor cost variances coming from, and is labor being spent efficiently relative to business volume?
@@ -66,8 +58,3 @@ Data not included (provided as part of a case study).
 - No 2026 actuals yet, so the model uses full-year forecast vs plan
 - Efficiency compares 2025 actuals to 2026 plans, not live 2026 data
 
-## Files
-- `Workforce_Cost_Executive_Summary.pptx`: 4-slide executive summary
-- `Workforce_Variance_Model.xlsx`: Notes, Location Summary, Efficiency Metrics, Top Movers, Variance Analysis, Raw Data
-
-Data not included (provided as part of a case study).
